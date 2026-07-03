@@ -8,12 +8,12 @@ from sklearn.metrics.pairwise import cosine_similarity
 # Page Configuration
 # -------------------------------
 st.set_page_config(
-    page_title="AI Knowledge Base",
+    page_title="Semantic Search",
     page_icon="🤖",
     layout="centered"
 )
 
-st.title("🤖 AI Knowledge Base Semantic Search")
+st.title("🤖 Semantic Search")
 
 st.write("Ask any AI, Machine Learning, Python or Data Science question.")
 
